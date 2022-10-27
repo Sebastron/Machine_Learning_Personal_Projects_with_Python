@@ -1,5 +1,5 @@
 # Tesla Stock Price Prediction
-Tesla, according to [Aman Kharwal](https://medium.com/@amankharwal), is an amAmericanlectric vehicle company whose aim is to accelerate the world’s transition towards sustainable energy. Predicting stock prices is a one of use case of machine learning, so it will take through the task of Tesla Stock Price Prediction with Machine Learning using Python and Prophet, a Facebook model.
+Tesla, according to [Aman Kharwal](https://medium.com/@amankharwal), is an amAmericanlectric vehicle company whose aim is to accelerate the world’s transition towards sustainable energy. Predicting stock prices is a one of use case of machine learning, so it will take through the task of Tesla Stock Price Prediction with Machine Learning using Python and Prophet, a Facebook model. the dataset used has been extracted from this [site](https://finance.yahoo.com/quote/TSLA/history?p=TSLA).
 
 ## Requisitos 📋
 
